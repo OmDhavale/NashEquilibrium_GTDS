@@ -1,4 +1,4 @@
-Create virtual env
+Create virtual env:
  py -m venv .venv
 
 Install requirements.txt
