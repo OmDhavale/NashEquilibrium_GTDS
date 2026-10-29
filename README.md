@@ -1,8 +1,19 @@
-Create virtual env:
- py -m venv .venv
+## Setup and Installation
 
-Install requirements.txt
- pip install -r requirements.txt
+### 1. Create a Virtual Environment
 
-Run the streamlit app
- streamlit run app.py
+```bash
+py -m venv .venv
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Streamlit Application
+
+```bash
+streamlit run app.py
+```
